@@ -1,4 +1,4 @@
-# hexo-theme-NextZ
+# hexo-theme-NextZ 
 
 本主题包含自定义主页，由于多说即将停止服务，本主题也引入了网易云评论、畅言等评论系统。 
 
